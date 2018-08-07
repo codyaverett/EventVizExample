@@ -1,2 +1,0 @@
-# EventVizExample
-Created with CodeSandbox
